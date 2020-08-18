@@ -16,3 +16,6 @@ The exploit tries to access a nonexistant file c:/$MFT/pwned. The browser will h
 **CVE:** N/A
 **CVSS:** N/A
 **ExploitDB ID:** 42253
+
+# Protection
+Couldn't find anything about this, however this doesn't affect Windows 10 so what are you waiting for if you haven't updated already?
